@@ -15,7 +15,7 @@
 /* ─────────────────────────────────────────────
    CONFIG
 ───────────────────────────────────────────── */
-const API_URL       = "http://localhost:5000/chat";
+const API_URL = "https://studybuddy-ai.onrender.com/chat";
 const BOT_DELAY_MIN = 600;   // ms — minimum "thinking" time
 const BOT_DELAY_MAX = 1400;  // ms — maximum "thinking" time
 
